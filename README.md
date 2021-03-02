@@ -1,2 +1,3 @@
 # hermes
-Generate Terraform modules variables from proto 2
+
+Generate Terraform modules variables from proto 3
