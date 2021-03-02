@@ -55,6 +55,7 @@ func (runner *GoExample) PrintParameters(w io.Writer) {
 		fmt.Fprintf(tw, "%s:\t%s\n", k, v)
 	}
 	fmt.Fprintln(tw, "")
+	fmt.Fprintln(tw, "Awesome")
 	tw.Flush()
 }
 
